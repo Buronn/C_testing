@@ -6,7 +6,7 @@ tareas/controles
 ```sh
 docker-compose up --build -d
 ```
-**Run files** 
+**Run files** <br>
 If it is a ```.c``` file
 ```sh
 gcc ~/myfile.c -o executable -lpthread
